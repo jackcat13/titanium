@@ -1,0 +1,13 @@
+[workspace]
+resolver = "2"
+members = [
+    "titanium_lib",
+    "test_project"
+]
+
+[workspace.package]
+version = "0.1.0"
+authors = ["Christophe HENRY <christophehenry11@gmail.com>"]
+edition = "2024"
+
+[workspace.dependencies]

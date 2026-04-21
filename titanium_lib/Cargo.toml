@@ -1,0 +1,6 @@
+[package]
+name = "titanium"
+
+[dependencies]
+pixels = "0.16.0"
+winit = "0.30.13"
